@@ -1,4 +1,4 @@
-* Skript: extract_unique_characters.R
+**Skript: extract_unique_characters.R**
 
 * Zweck: Extraktion einzigartiger Zeichen aus Transkriptionen
 * Sprache: R  
@@ -7,9 +7,11 @@
 * Output: Excel-Datei (.xlsx) mit allen vorkommenden, eindeutigen Unicode-Zeichen  
 * Use Case: Vorverarbeitung, Datenbereinigung, Zeichenvereinheitlichung  
 * Entwickelt für: QuantiSlav (HTR für Kirchenslavisch)  
-* Hinweise: Funktioniert nur mit UTF-8-Dateien. 
+* Hinweise: Funktioniert nur mit UTF-8-Dateien.
 
-* Script: extract_unique_characters.R
+
+
+**Script: extract_unique_characters.R**
 * Purpose: Extraction of unique characters from transcription files
 * Language: R
 * Goal: Identify and export all distinct Unicode characters found in .txt transcription files (e.g., for HTR projects using Transkribus)
