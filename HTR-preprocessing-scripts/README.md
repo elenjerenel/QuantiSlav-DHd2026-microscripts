@@ -9,8 +9,6 @@
 * Entwickelt für: QuantiSlav (HTR für Kirchenslavisch)  
 * Hinweise: Funktioniert nur mit UTF-8-Dateien.
 
-
-
 **Script: extract_unique_characters.R**
 * Purpose: Extraction of unique characters from transcription files
 * Language: R
